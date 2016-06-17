@@ -2,3 +2,4 @@
 "Ahoj Git!"
 "Sharing remotely is fun and easy"
 "XYZ""Feature2" 
+"Feature2 changes" 
