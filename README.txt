@@ -1,1 +1,2 @@
 "Hello, Git"  
+Ahoj Git!
